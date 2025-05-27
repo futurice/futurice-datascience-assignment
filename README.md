@@ -13,9 +13,9 @@ Username and password is sent in the assignment email you recieved
 2. Locate Your Resource Group: Once you're logged in, you'll have access to an empty resource group specifically created for your assignment. It is named after the applicant's firstname eg. joe-rg.
 
 ## Important Azure Information
-> All resources you create for this assignment should be provisioned within this designated resource group. This helps us track your work and manage costs effectively.
-> You have full control over the resources within your assigned resource group, allowing you to create, configure, and delete services as needed for the assignment.
-> For this assignment, you will need to deploy Azure OpenAI Service resources within your designated resource group. Specifically, you will need to deploy instances of the embedding model and the chat model as required by the assignment. You will then use the API keys and endpoints generated from your own deployments to interact with these models.
+- All resources you create for this assignment should be provisioned within this designated resource group. This helps us track your work and manage costs effectively.
+- You have full control over the resources within your assigned resource group, allowing you to create, configure, and delete services as needed for the assignment.
+- For this assignment, you will need to deploy Azure OpenAI Service resources within your designated resource group. Specifically, you will need to deploy instances of the embedding model and the chat model as required by the assignment. You will then use the API keys and endpoints generated from your own deployments to interact with these models.
 
 ---
 
