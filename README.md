@@ -23,7 +23,6 @@ Username and password is sent in the assignment email you recieved
 
 | Path | Purpose |
 |------|---------|
-
 | **`app.py`**      | Streamlit app & `generate_answer()` stub |
 | **`ingest.py`**   | One-off script to build an index from the PDF |
 | `requirements.txt`| Python dependencies *(create this during setup)* |
